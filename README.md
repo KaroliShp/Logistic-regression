@@ -6,4 +6,4 @@ All derivations of formulas (from existing ones) were done by me. The code was w
 
 All of the other necessary info is included in the PDF itself.
 
-Mind you, the fellow IB students, that this work is not a "typical" example of IB Mathematics internal assesement, even at HL, as it's way outside of the syllabus.
+Mind you, the fellow IB students, that this work is not a "typical" example of IB Mathematics internal assesement, even at HL, as it's way outside of the syllabus. I do not recommend choosing a similar topic, as you could still score maximum points even if you chose a very simple problem that is in the range of the syllabus.
